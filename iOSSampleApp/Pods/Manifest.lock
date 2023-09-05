@@ -1,0 +1,21 @@
+PODS:
+  - DegreesLibrary (1.2)
+
+DEPENDENCIES:
+  - DegreesLibrary (from `https://github.com/cassiaabarbosa/degreesLibrary.git`)
+
+EXTERNAL SOURCES:
+  DegreesLibrary:
+    :git: https://github.com/cassiaabarbosa/degreesLibrary.git
+
+CHECKOUT OPTIONS:
+  DegreesLibrary:
+    :commit: a595f73dc3d1dc19c659ae3ee88f709514ad29d6
+    :git: https://github.com/cassiaabarbosa/degreesLibrary.git
+
+SPEC CHECKSUMS:
+  DegreesLibrary: dd19f559a05a5434b6dd7730a3b549bb85ceb8e4
+
+PODFILE CHECKSUM: d20cf1fc41c3cf0494b103ba06b958d011ca6d11
+
+COCOAPODS: 1.11.3

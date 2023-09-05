@@ -1,0 +1,8 @@
+framework module DegreesLibrary {
+    umbrella header "DegreesLibrary.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
