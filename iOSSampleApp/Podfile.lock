@@ -2,15 +2,15 @@ PODS:
   - CustomLibrary (1.0)
 
 DEPENDENCIES:
-  - CustomLibrary (from `/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/build/cocoapods/publish/debug`)
+  - CustomLibrary (from `/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared`)
 
 EXTERNAL SOURCES:
   CustomLibrary:
-    :path: "/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/build/cocoapods/publish/debug"
+    :path: "/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared"
 
 SPEC CHECKSUMS:
-  CustomLibrary: 72bf74b8aeb0e21528728b760c249d4add55ffd5
+  CustomLibrary: 69b5414e09428706f2763a17d8cc64fa7e9977d2
 
-PODFILE CHECKSUM: d9617b05c5420f0633bd9597705e1b8fac389430
+PODFILE CHECKSUM: b6306c12a0dd2dbb8c9590cd85f875768fa4cc67
 
 COCOAPODS: 1.11.3

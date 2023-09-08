@@ -8,7 +8,7 @@ import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.customlibrary.Greeting
+import com.example.customlibrary.TemperatureConverter
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    GreetingView(Greeting().greet())
+                    GreetingView(TemperatureConverter().celsiusToFahrenheit(0.0).toString())
                 }
             }
         }
