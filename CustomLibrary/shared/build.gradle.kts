@@ -28,7 +28,7 @@ kotlin {
         podfile = project.file("../iosSampleApp/Podfile")
         framework {
             baseName = "CustomLibrary" // trocar aqui para o nome da library que eu quero
-            isStatic = true
+//            isStatic = true
         }
     }
     

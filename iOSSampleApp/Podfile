@@ -2,10 +2,10 @@
   platform :ios, '14.1'
 
 target 'iOSSampleApp' do
-  # Comment the next line if you don't want to use dynamic frameworks
+
   use_frameworks!
 
-  pod 'CustomLibrary', :path => '/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/build/cocoapods/publish/debug' 
+  pod 'CustomLibrary', :podspec => 'https://github.com/cassiaabarbosa/kmpMonoRepo/blob/main/CustomLibrary/shared/CustomLibrary.podspec'
 
   target 'iOSSampleAppTests' do
     inherit! :search_paths
