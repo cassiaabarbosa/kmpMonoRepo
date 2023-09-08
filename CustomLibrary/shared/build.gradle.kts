@@ -26,10 +26,10 @@ kotlin {
         version = "1.0"
         ios.deploymentTarget = "14.1"
         podfile = project.file("../iosSampleApp/Podfile")
-        source = "https://github.com/cassiaabarbosa/degreesKMPLibrary.git"
+        source = "https://github.com/cassiaabarbosa/kmpMonoRepo/blob/main/CustomLibrary/shared/CustomLibrary.podspec"
         framework {
             baseName = "CustomLibrary" // trocar aqui para o nome da library que eu quero
-//            isStatic = true
+            isStatic = true
         }
     }
     

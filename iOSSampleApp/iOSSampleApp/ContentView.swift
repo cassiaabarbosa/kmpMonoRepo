@@ -6,17 +6,17 @@
 //
 
 import SwiftUI
-import CustomLibrary
+//import CustomLibrary
 
 struct ContentView: View {
-    var converter = TemperatureConverter()
+//    var converter = TemperatureConverter()
 
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("\(converter.kelvinToCelsius(kelvin: 0))")
+//            Text("\(converter.kelvinToCelsius(kelvin: 0))")
         }
         .padding()
     }

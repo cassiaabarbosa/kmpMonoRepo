@@ -1,16 +1,3 @@
-PODS:
-  - CustomLibrary (1.0)
-
-DEPENDENCIES:
-  - CustomLibrary (from `/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared`)
-
-EXTERNAL SOURCES:
-  CustomLibrary:
-    :path: "/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared"
-
-SPEC CHECKSUMS:
-  CustomLibrary: 69b5414e09428706f2763a17d8cc64fa7e9977d2
-
-PODFILE CHECKSUM: b6306c12a0dd2dbb8c9590cd85f875768fa4cc67
+PODFILE CHECKSUM: 2bf403e8e580d531f7d3f6a2a0c18eeb33dcb548
 
 COCOAPODS: 1.11.3
