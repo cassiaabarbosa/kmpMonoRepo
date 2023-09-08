@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/Pods-iOSSampleApp/Pods-iOSSampleApp-frameworks.sh
-${PODS_XCFRAMEWORKS_BUILD_DIR}/DegreesLibrary/DegreesLibrary.framework/DegreesLibrary
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CustomLibrary/CustomLibrary.framework/CustomLibrary
