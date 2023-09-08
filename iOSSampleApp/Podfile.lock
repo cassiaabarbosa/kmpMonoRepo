@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 2bf403e8e580d531f7d3f6a2a0c18eeb33dcb548
+PODS:
+  - CustomLibrary (1.0)
+
+DEPENDENCIES:
+  - CustomLibrary (from `/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/CustomLibrary.podspec`)
+
+EXTERNAL SOURCES:
+  CustomLibrary:
+    :path: "/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/CustomLibrary.podspec"
+
+SPEC CHECKSUMS:
+  CustomLibrary: 69b5414e09428706f2763a17d8cc64fa7e9977d2
+
+PODFILE CHECKSUM: 04b5ae32796be8eac6415cd6d1c686d4d9ef77cb
 
 COCOAPODS: 1.11.3

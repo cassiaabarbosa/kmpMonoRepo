@@ -5,7 +5,7 @@ target 'iOSSampleApp' do
 
   use_frameworks!
 
-  pod 'CustomLibrary', :podspec => 'https://github.com/cassiaabarbosa/kmpMonoRepo/blob/main/CustomLibrary/shared/CustomLibrary.podspec'
+  pod 'CustomLibrary', :path => '/Users/cassia.barbosa/Documents/Repositories/kmpMonoRepo/CustomLibrary/shared/CustomLibrary.podspec'
 
   target 'iOSSampleAppTests' do
     inherit! :search_paths
